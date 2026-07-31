@@ -40,6 +40,8 @@
 - **GIS Mapping:** Leaflet 1.9 + React-Leaflet
 - **Icons:** Lucide React Icons
 - **State & Data Persistence:** Browser LocalStorage Engine with Custom Event Emitter
+- **antigravity IDE**
+- **gemini AI**
 
 ---
 
